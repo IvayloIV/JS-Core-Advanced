@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Colorize Table</title>
+</head>
+<body>
+    <table>
+        <tr><th>Name</th><th>Town</th></tr>
+        <tr><td>Eve</td><td>Sofia</td></tr>
+        <tr><td>Nick</td><td>Varna</td></tr>
+        <tr><td>Didi</td><td>Ruse</td></tr>
+        <tr><td>Tedy</td><td>Varna</td></tr>
+      </table>
+      <button onclick="colorize()">Colorize</button>
+      <script>
+        function colorize() {
+            let allTables = document.querySelectorAll('tr');
+            for(let i = 1; i < allTables.length; i += 2){
+                allTables[i].style.backgroundColor = 'teal';
+            }
+        }
+      </script>      
+</body>
+</html>

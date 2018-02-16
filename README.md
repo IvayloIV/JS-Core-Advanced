@@ -9,3 +9,5 @@
 5.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-jQuery-Library" > <b>Exercise- jQuery Library</b> </a> 
 6.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-Advanced-Functions" > <b>Lab- Advanced Functions</b> </a> 
 7.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-Advanced-Functions" > <b>Exercise-  Advanced Functions</b> </a> 
+8.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-Object-Composition" > <b>Lab-Object-Composition</b> </a> 
+9.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-Object-Composition" > <b>Exercise-Object-Composition</b> </a> 

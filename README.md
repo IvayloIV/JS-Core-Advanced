@@ -11,3 +11,5 @@
 7.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-Advanced-Functions" > <b>Exercise-  Advanced Functions</b> </a> 
 8.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-Object-Composition" > <b>Lab-Object-Composition</b> </a> 
 9.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-Object-Composition" > <b>Exercise-Object-Composition</b> </a> 
+10.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-Classes-and-Members" > <b>Lab-Classes and Members</b> </a> 
+11.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-Classes-and-Members" > <b>Exercise-Classes and Members</b> </a> 

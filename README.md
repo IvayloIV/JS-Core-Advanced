@@ -15,3 +15,11 @@
 11.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-Classes-and-Members" > <b>Exercise-Classes and Members</b> </a> 
 12.  [**Lab- Prototype Chain**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-%20Prototype%20Chain)
 13.  [**Exercise JS Classes & Prototype Chain**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-JS-Classes-%26-Prototype-Chain)
+
+## <b>JavaScript Advanced Exams</b>
+1.  [**JS Advanced - Sample Exam - 31 Oct 2016**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-Exams/JS%20Advanced%20-%20Sample%20Exam%20-%2031%20Oct%202016)
+2.  [**JS Advanced - Sample Exam - 7 Nov 2016**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-Exams/JS%20Advanced%20-%20Sample%20Exam%20-%207%20Nov%202016)
+3.  [**JS Advanced Exam - 19 Dec 2016**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-Exams/JS%20Advanced%20Exam%20-%2019%20Dec%202016)
+4.  [**JS Advanced Exam - 23 July 2017**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-Exams/JS%20Advanced%20Exam%20-%2023%20July%202017)
+5.  [**JS Advanced Retake Exam - 5 Sept 2017**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-Exams/JS%20Advanced%20Retake%20Exam%20-%205%20Sept%202017)
+6.  [**JS Advanced-Exam - 13 Nov 2016**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-Exams/JS-Advanced-Exam%20-%2013-Nov-2016)

@@ -17,6 +17,7 @@
 13.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-Classes-and-Members" > <b>Exercise-Classes and Members</b> </a> 
 14.  [**Lab- Prototype Chain**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-%20Prototype%20Chain)
 15.  [**Exercise JS Classes & Prototype Chain**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-JS-Classes-%26-Prototype-Chain)
+16.  [**Lab- Modules**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-%20Modules)
 
 ## <b>JavaScript Advanced Exams</b>
 1.  [**JS Advanced - Sample Exam - 31 Oct 2016**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-Exams/JS%20Advanced%20-%20Sample%20Exam%20-%2031%20Oct%202016)

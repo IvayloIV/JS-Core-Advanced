@@ -11,10 +11,12 @@
 7.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-Advanced-Functions" > <b>Exercise-  Advanced Functions</b> </a> 
 8.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-Object-Composition" > <b>Lab-Object-Composition</b> </a> 
 9.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-Object-Composition" > <b>Exercise-Object-Composition</b> </a> 
-10.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-Classes-and-Members" > <b>Lab-Classes and Members</b> </a> 
-11.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-Classes-and-Members" > <b>Exercise-Classes and Members</b> </a> 
-12.  [**Lab- Prototype Chain**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-%20Prototype%20Chain)
-13.  [**Exercise JS Classes & Prototype Chain**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-JS-Classes-%26-Prototype-Chain)
+10.  [**Lab-Unit Testing with Mocha**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-Unit-Testing-with-Mocha)
+11.  [**Exercise-Unit Testing with Mocha**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-Unit-Testing-with-Mocha)
+12.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-Classes-and-Members" > <b>Lab-Classes and Members</b> </a> 
+13.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-Classes-and-Members" > <b>Exercise-Classes and Members</b> </a> 
+14.  [**Lab- Prototype Chain**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-%20Prototype%20Chain)
+15.  [**Exercise JS Classes & Prototype Chain**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-JS-Classes-%26-Prototype-Chain)
 
 ## <b>JavaScript Advanced Exams</b>
 1.  [**JS Advanced - Sample Exam - 31 Oct 2016**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-Exams/JS%20Advanced%20-%20Sample%20Exam%20-%2031%20Oct%202016)

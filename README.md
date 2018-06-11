@@ -2,22 +2,22 @@
 
 ---
 ## <b>JavaScript Advanced</b>
-1.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-%20Document%20Object%20Model" > <b>Lab-      Document Object Model</b> </a> 
-2.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-%20DOM%20Manipulation" > <b>Lab- DOM Manipulation</b> </a> 
-3.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-%20DOM%20Manipulations" > <b>Exercise-   DOM Manipulations</b> </a> 
-4.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-jQuery-Library" > <b>Lab- jQuery Library</b> </a> 
-5.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-jQuery-Library" > <b>Exercise- jQuery Library</b> </a> 
-6.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-Advanced-Functions" > <b>Lab- Advanced Functions</b> </a> 
-7.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-Advanced-Functions" > <b>Exercise-  Advanced Functions</b> </a> 
-8.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-Object-Composition" > <b>Lab-Object-Composition</b> </a> 
-9.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-Object-Composition" > <b>Exercise-Object-Composition</b> </a> 
-10.  [**Lab-Unit Testing with Mocha**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-Unit-Testing-with-Mocha)
-11.  [**Exercise-Unit Testing with Mocha**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-Unit-Testing-with-Mocha)
-12.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-Classes-and-Members" > <b>Lab-Classes and Members</b> </a> 
-13.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-Classes-and-Members" > <b>Exercise-Classes and Members</b> </a> 
-14.  [**Lab- Prototype Chain**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-%20Prototype%20Chain)
-15.  [**Exercise JS Classes & Prototype Chain**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Exercise-JS-Classes-%26-Prototype-Chain)
-16.  [**Lab- Modules**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced/Lab-%20Modules)
+1.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Lab-%20Document%20Object%20Model" > <b>Lab-      Document Object Model</b> </a> 
+2.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Lab-%20DOM%20Manipulation" > <b>Lab- DOM Manipulation</b> </a> 
+3.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Exercise-%20DOM%20Manipulations" > <b>Exercise-   DOM Manipulations</b> </a> 
+4.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Lab-jQuery-Library" > <b>Lab- jQuery Library</b> </a> 
+5.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Exercise-jQuery-Library" > <b>Exercise- jQuery Library</b> </a> 
+6.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Lab-Advanced-Functions" > <b>Lab- Advanced Functions</b> </a> 
+7.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Exercise-Advanced-Functions" > <b>Exercise-  Advanced Functions</b> </a> 
+8.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Lab-Object-Composition" > <b>Lab-Object-Composition</b> </a> 
+9.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Exercise-Object-Composition" > <b>Exercise-Object-Composition</b> </a> 
+10.  [**Lab-Unit Testing with Mocha**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Lab-Unit-Testing-with-Mocha)
+11.  [**Exercise-Unit Testing with Mocha**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Exercise-Unit-Testing-with-Mocha)
+12.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Lab-Classes-and-Members" > <b>Lab-Classes and Members</b> </a> 
+13.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Exercise-Classes-and-Members" > <b>Exercise-Classes and Members</b> </a> 
+14.  [**Lab- Prototype Chain**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Lab-%20Prototype%20Chain)
+15.  [**Exercise JS Classes & Prototype Chain**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Exercise-JS-Classes-%26-Prototype-Chain)
+16.  [**Lab- Modules**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Lab-%20Modules)
 
 ## <b>JavaScript Advanced Exams</b>
 1.  [**JS Advanced - Sample Exam - 31 Oct 2016**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-Exams/JS%20Advanced%20-%20Sample%20Exam%20-%2031%20Oct%202016)

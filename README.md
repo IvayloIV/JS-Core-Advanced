@@ -1,7 +1,10 @@
 <a href="#"><img src="https://i.imgur.com/9UOpslS.jpg"  width="1000" height="300"></img></a>
 
 ---
-## <b>JavaScript Advanced</b>
+## <b>JavaScript Advanced June 2018</b>
+1.  [**Lab-Document Object Model**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-June%202018/Lab-Document_Object_Model)
+
+## <b>JavaScript Advanced February 2018</b>
 1.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Lab-%20Document%20Object%20Model" > <b>Lab-      Document Object Model</b> </a> 
 2.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Lab-%20DOM%20Manipulation" > <b>Lab- DOM Manipulation</b> </a> 
 3.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Exercise-%20DOM%20Manipulations" > <b>Exercise-   DOM Manipulations</b> </a> 

@@ -9,6 +9,7 @@
 5.  [**Exercise-jQuery Library**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-June%202018/Exercise-jQuery_Library)
 6.  [**Lab-Advanced Functions**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-June%202018/Lab-Advanced_Functions)
 7.  [**Exercise-Advanced Functions**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-June%202018/Exercise-Advanced_Functions)
+8.  [**Lab-Object Composition**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-June%202018/Lab-Object_Composition)
 
 ## <b>JavaScript Advanced February 2018</b>
 1.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Lab-%20Document%20Object%20Model" > <b>Lab-      Document Object Model</b> </a> 

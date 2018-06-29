@@ -13,6 +13,7 @@
 9.  [**Exercise-Object Composition**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-June%202018/Exercise-Object_Composition)
 10.  [**Lab-Unit Testing with Mocha**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-June%202018/Lab-Unit_Testing_with_Mocha)
 11.  [**Exercise-Unit Testing with Mocha**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-June%202018/Exercise-Unit_Testing_with_Mocha)
+12.  [**Lab-Classes and Members**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-June%202018/Lab-Classes_and_Members)
 
 ## <b>JavaScript Advanced February 2018</b>
 1.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Lab-%20Document%20Object%20Model" > <b>Lab-      Document Object Model</b> </a> 

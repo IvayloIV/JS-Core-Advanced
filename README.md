@@ -16,6 +16,7 @@
 12.  [**Lab-Classes and Members**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-June%202018/Lab-Classes_and_Members)
 13.  [**Exercise-Classes and Members**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-June%202018/Exercise-Classes_and_Members)
 14.  [**Lab-Prototype Chain**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-June%202018/Lab-Prototype_Chain)
+15.  [**Exercise-Prototype Chain**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-June%202018/Exercise-Prototype_Chain)
 
 ## <b>JavaScript Advanced February 2018</b>
 1.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Lab-%20Document%20Object%20Model" > <b>Lab-      Document Object Model</b> </a> 

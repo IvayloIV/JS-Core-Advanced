@@ -17,6 +17,7 @@
 13.  [**Exercise-Classes and Members**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-June%202018/Exercise-Classes_and_Members)
 14.  [**Lab-Prototype Chain**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-June%202018/Lab-Prototype_Chain)
 15.  [**Exercise-Prototype Chain**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-June%202018/Exercise-Prototype_Chain)
+16.  [**Lab-Modules**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-June%202018/Lab-Modules)
 
 ## <b>JavaScript Advanced February 2018</b>
 1.  <a href="https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-February-2018/Lab-%20Document%20Object%20Model" > <b>Lab-      Document Object Model</b> </a> 
@@ -44,3 +45,4 @@
 5.  [**JS Advanced Retake Exam - 5 Sept 2017**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-Exams/JS%20Advanced%20Retake%20Exam%20-%205%20Sept%202017)
 6.  [**JS Advanced-Exam - 13 Nov 2016**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-Exams/JS-Advanced-Exam%20-%2013-Nov-2016)
 7.  [**JS Advanced Exam - 18 Mar 2018**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-Exams/JS%20Advanced%20Exam%20-%2018%20Mar%202018)
+8.  [**JS-Advanced Retake Exam - 26 Apr 2018**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-Exams/JS-Advanced_Retake_Exam-26_Apr_2018)

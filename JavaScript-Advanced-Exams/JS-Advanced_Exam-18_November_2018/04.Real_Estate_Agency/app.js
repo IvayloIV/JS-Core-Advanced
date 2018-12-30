@@ -98,6 +98,8 @@ function realEstateAgency () {
         }
 
         let html = register[index]['html'];
+        let offerPrice = register[index]['apartmentRent'];
+        let offerCommission = register[index]['agencyCommission'];
         let bestOffer = register.splice(index, 1)[0];
 
         $(html).empty();
@@ -106,7 +108,7 @@ function realEstateAgency () {
             .append($('<p>').text('live here now'))
             .append($('<button>').text('MoveOut').on('click', removeHouse));
 
-        sumAgency += (bestOffer['price'] / 2) + (bestOffer['apartmentRent'] * bestOffer['agencyCommission'] / 100 / 2);
+        sumAgency += (offerPrice * offerCommission / 100) * 2;;
         roof.text(`Agency profit: ${sumAgency} lv.`);
 
         message.text('Enjoy your new home! :))');

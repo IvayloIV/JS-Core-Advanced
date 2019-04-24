@@ -50,3 +50,4 @@
 10.  [**JS-Advanced Retake Exam - 30 August 2018**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-Exams/JS-Advanced-Retake-Exam-30_August_2018)
 11.  [**JS-Advanced Exam - 18 November 2018**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-Exams/JS-Advanced_Exam-18_November_2018)
 12.  [**JS-Advanced-Exam - 19 December 2018**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-Exams/JS-Advanced-Exam-19_December_2018)
+13.  [**JS-Advanced-Exam - 17 March 2019**](https://github.com/IvayloIV/JS-Core-Advanced/tree/master/JavaScript-Advanced-Exams/JS-Advanced-Exam-17_March_2019)
